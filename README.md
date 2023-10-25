@@ -14,4 +14,4 @@ Fitur-fitur yang ada dalam aplikasi ini :
      > Play : Memungkinkan pengguna untuk memulai pemutaran saluran radio yang dipilih
      > Pause : Untuk menghentikan sementara pemutaran
      > Stop : Menghentikan pemutaran dan mengembalikannya ke awal
-  4. Pengaturan Volume
+  5. Pengaturan Volume
