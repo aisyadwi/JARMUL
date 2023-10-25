@@ -11,7 +11,7 @@ Fitur-fitur yang ada dalam aplikasi ini :
   1. Pemutaran Audio : Memungkinkan pengguna untuk memutar audio dari saluran radio streaming
   2. Daftar Saluran Radio : Terdapat daftar saluran radio yang dapat dipilih oleh pengguna
   3. Kontrol Pemutaran :
-     > Play : Memungkinkan pengguna untuk memulai pemutaran saluran radio yang dipilih
-     > Pause : Untuk menghentikan sementara pemutaran
-     > Stop : Menghentikan pemutaran dan mengembalikannya ke awal
+     Play : Memungkinkan pengguna untuk memulai pemutaran saluran radio yang dipilih
+     Pause : Untuk menghentikan sementara pemutaran
+     Stop : Menghentikan pemutaran dan mengembalikannya ke awal
   5. Pengaturan Volume
